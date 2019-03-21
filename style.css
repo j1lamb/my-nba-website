@@ -1,0 +1,11 @@
+.container {
+  border: 1px solid gray;
+}
+
+footer {
+    overflow: auto;
+    background-color: #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    vertical-align: bottom;
+}
