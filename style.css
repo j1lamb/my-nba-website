@@ -1,5 +1,7 @@
 .container {
-  border: 1px solid gray;
+    border: 1px solid gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 footer {
@@ -7,5 +9,7 @@ footer {
     background-color: #ddd;
     border-radius: 5px;
     padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     vertical-align: bottom;
 }
